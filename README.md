@@ -37,7 +37,7 @@
    # 安装Chrome浏览器
    sudo apt-get install chromium-browser
    ```windows
-   https://www.google.com/chrome/
+   https://www.google.cn/chrome/
 
 2. **配置账号信息**：在 `get_info.py` 中直接设置你的账号和密码。
 
